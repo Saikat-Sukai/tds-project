@@ -10,7 +10,7 @@ from typing import List, Dict, Optional
 # Configuration
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 GITHUB_USERNAME = os.getenv("GITHUB_USERNAME", "Saikat-Sukai")
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_API_KEY = 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
 SECRET = os.getenv("secret")
 
 # Initialize OpenAI client
